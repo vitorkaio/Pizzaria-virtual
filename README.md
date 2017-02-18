@@ -16,3 +16,40 @@
  * escolhe a forma de pagamento (dinheiro ou cartão de crédito);
 
  * o cliente confirma todos os dados do seu pedido para concluí-lo.
+ 
+ 
+ **Inicialização do sistema:**
+
+![alt text](Pizzaria/prints/inicializando.png "Inicializando")
+
+**Tela de Login:**
+
+![alt text](Pizzaria/prints/login.png "Tela de Login")
+
+**Tela de Menu:**
+
+![alt text](Pizzaria/prints/menu.png "Tela de Menu")
+
+**Controle de funcionários:**
+
+![alt text](Pizzaria/prints/funcionario.png "Controle de funcionários")
+
+**Controle de clientes:**
+
+![alt text](Pizzaria/prints/cliente.png "Controle de clientes")
+
+**Controle das pizzas:**
+
+![alt text](Pizzaria/prints/pizza.png "Pizzas")
+
+**Controle de Ingredientes:**
+
+![alt text](Pizzaria/prints/ingredientes.png "Ingredientes")
+
+**Controle de Compras:**
+
+![alt text](Pizzaria/prints/comprar.png "Comprar")
+
+**Controle de Pedidos:**
+
+![alt text](Pizzaria/prints/pedidos.png "Pedidos")
